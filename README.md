@@ -1,0 +1,18 @@
+# LF Quiz - Biologia & Chemia
+
+Interaktivny kviz na pripravu na prijimacie skusky na lekarsku fakultu.
+
+## Ako pouzit
+
+1. Chod na [app.netlify.com/drop](https://app.netlify.com/drop)
+2. Pretiahni subor `quiz.html` na stranku
+3. Dostanes link - ten posli kamaratom
+4. Otvorit v prehliadaci na telefone/tablete/PC
+
+## Co to robi
+
+- 2266 otazok (Biologia + Chemia)
+- Vyberies kolko otazok chces
+- Nahodne alebo postupne poradie
+- Ukazuje spravne/nespravne odpovede po kazdom kliknuti
+- Na konci vysledky + moznost zopakovat chybne
