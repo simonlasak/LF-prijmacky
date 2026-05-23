@@ -5,9 +5,7 @@ Interaktivny kviz na pripravu na prijimacie skusky na lekarsku fakultu.
 ## Ako pouzit
 
 1. Chod na (https://simonlasak.github.io/LF-prijmacky/)
-2. Pretiahni subor `quiz.html` na stranku
-3. Dostanes link - ten posli kamaratom
-4. Otvorit v prehliadaci na telefone/tablete/PC
+2. Otvorit v prehliadaci na telefone/tablete/PC
 
 ## Co to robi
 
